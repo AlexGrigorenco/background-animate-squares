@@ -1,5 +1,5 @@
 
-const amount = 1000
+const amount = 1500
 
 const arrSpan = []
 

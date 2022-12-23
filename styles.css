@@ -66,9 +66,9 @@ h1,h2,h3,h4,h5,h6{
 
 :root{
   --heigh-line: 4px;
-  --squares: 4vw;
+  --squares: 2vw;
   --suare-bg: rgb(60, 51, 51);
-  --backlight: rgb(22, 255, 30);
+  --backlight: rgb(247, 255, 26);
   --delay: 2s;
 }
 
